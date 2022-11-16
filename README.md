@@ -2,9 +2,11 @@
 
 ## Prerequisites
 
-To run these tests locally you need [Java SDK](https://java.com) and [Maven](https://maven.apache.org/).
+To run these tests locally you need [Java SDK](https://java.com), [Maven](https://maven.apache.org/), [Chrome Browser](https://www.google.com/chrome/) and [Chromedriver](https://chromedriver.chromium.org/).
 
 ## Execute
+
+At the root of this project run:
 
 ```shell
 mvn clean test
